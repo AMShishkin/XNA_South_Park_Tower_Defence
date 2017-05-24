@@ -1,0 +1,1328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\SFAll.spritefont</Source>
+      <Name>Fonts\SFAll</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Fonts\SFAll.xnb</Output>
+      <Time>2012-11-17T04:15:44+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SFHealth.spritefont</Source>
+      <Name>Fonts\SFHealth</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Fonts\SFHealth.xnb</Output>
+      <Time>2012-11-17T04:15:44+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SFCityHealth.spritefont</Source>
+      <Name>Fonts\SFCityHealth</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Fonts\SFCityHealth.xnb</Output>
+      <Time>2012-12-20T07:06:44+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Logo.spritefont</Source>
+      <Name>Fonts\Logo</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Fonts\Logo.xnb</Output>
+      <Time>2012-12-29T14:25:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LogoSmall.spritefont</Source>
+      <Name>Fonts\LogoSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Fonts\LogoSmall.xnb</Output>
+      <Time>2013-02-24T20:20:43.8992892+04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelInscriptions\DarkFone.png</Source>
+      <Name>LevelInscriptions\DarkFone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\LevelInscriptions\DarkFone.xnb</Output>
+      <Time>2012-11-17T04:38:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[1]\Movement\GMDown.png</Source>
+      <Name>Enemies\Gingers\Ginger[1]\Movement\GMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[1]\Movement\GMDown.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[1]\Movement\GMLeft.png</Source>
+      <Name>Enemies\Gingers\Ginger[1]\Movement\GMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[1]\Movement\GMLeft.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[1]\Movement\GMUp.png</Source>
+      <Name>Enemies\Gingers\Ginger[1]\Movement\GMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[1]\Movement\GMUp.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[2]\Movement\GMDown.png</Source>
+      <Name>Enemies\Gingers\Ginger[2]\Movement\GMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[2]\Movement\GMDown.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[2]\Movement\GMLeft.png</Source>
+      <Name>Enemies\Gingers\Ginger[2]\Movement\GMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[2]\Movement\GMLeft.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[2]\Movement\GMRight.png</Source>
+      <Name>Enemies\Gingers\Ginger[2]\Movement\GMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[2]\Movement\GMRight.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[2]\Movement\GMUp.png</Source>
+      <Name>Enemies\Gingers\Ginger[2]\Movement\GMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[2]\Movement\GMUp.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[4]\Movement\GMDown.png</Source>
+      <Name>Enemies\Gingers\Ginger[4]\Movement\GMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[4]\Movement\GMDown.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[4]\Movement\GMLeft.png</Source>
+      <Name>Enemies\Gingers\Ginger[4]\Movement\GMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[4]\Movement\GMLeft.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[4]\Movement\GMRight.png</Source>
+      <Name>Enemies\Gingers\Ginger[4]\Movement\GMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[4]\Movement\GMRight.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[4]\Movement\GMUp.png</Source>
+      <Name>Enemies\Gingers\Ginger[4]\Movement\GMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[4]\Movement\GMUp.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[5]\Movement\GMDown.png</Source>
+      <Name>Enemies\Gingers\Ginger[5]\Movement\GMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[5]\Movement\GMDown.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[5]\Movement\GMLeft.png</Source>
+      <Name>Enemies\Gingers\Ginger[5]\Movement\GMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[5]\Movement\GMLeft.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[5]\Movement\GMRight.png</Source>
+      <Name>Enemies\Gingers\Ginger[5]\Movement\GMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[5]\Movement\GMRight.xnb</Output>
+      <Time>2012-10-30T21:09:16+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[5]\Movement\GMUp.png</Source>
+      <Name>Enemies\Gingers\Ginger[5]\Movement\GMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[5]\Movement\GMUp.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[3]\Movement\GMDown.png</Source>
+      <Name>Enemies\Gingers\Ginger[3]\Movement\GMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[3]\Movement\GMDown.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[3]\Movement\GMLeft.png</Source>
+      <Name>Enemies\Gingers\Ginger[3]\Movement\GMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[3]\Movement\GMLeft.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[3]\Movement\GMRight.png</Source>
+      <Name>Enemies\Gingers\Ginger[3]\Movement\GMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[3]\Movement\GMRight.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[3]\Movement\GMUp.png</Source>
+      <Name>Enemies\Gingers\Ginger[3]\Movement\GMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[3]\Movement\GMUp.xnb</Output>
+      <Time>2012-11-17T05:09:14+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\CameraTower\TowerL1.png</Source>
+      <Name>Towers\CameraTower\TowerL1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Towers\CameraTower\TowerL1.xnb</Output>
+      <Time>2012-11-17T05:10:04+04:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckPoints\1.png</Source>
+      <Name>CheckPoints\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\CheckPoints\1.xnb</Output>
+      <Time>2012-11-17T10:43:06+04:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckPoints\CheckPointStart\Down.png</Source>
+      <Name>CheckPoints\CheckPointStart\Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\CheckPoints\CheckPointStart\Down.xnb</Output>
+      <Time>2012-11-17T10:43:06+04:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckPoints\CheckPointStart\Left.png</Source>
+      <Name>CheckPoints\CheckPointStart\Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\CheckPoints\CheckPointStart\Left.xnb</Output>
+      <Time>2012-11-17T10:43:06+04:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckPoints\CheckPointStart\LeftDown.png</Source>
+      <Name>CheckPoints\CheckPointStart\LeftDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\CheckPoints\CheckPointStart\LeftDown.xnb</Output>
+      <Time>2012-11-17T10:43:06+04:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckPoints\CheckPointStart\LeftUp.png</Source>
+      <Name>CheckPoints\CheckPointStart\LeftUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\CheckPoints\CheckPointStart\LeftUp.xnb</Output>
+      <Time>2012-11-17T10:43:06+04:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckPoints\CheckPointStart\Right.png</Source>
+      <Name>CheckPoints\CheckPointStart\Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\CheckPoints\CheckPointStart\Right.xnb</Output>
+      <Time>2012-11-17T10:43:06+04:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckPoints\CheckPointStart\RightDown.png</Source>
+      <Name>CheckPoints\CheckPointStart\RightDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\CheckPoints\CheckPointStart\RightDown.xnb</Output>
+      <Time>2012-11-17T10:43:06+04:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckPoints\CheckPointStart\RightUp.png</Source>
+      <Name>CheckPoints\CheckPointStart\RightUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\CheckPoints\CheckPointStart\RightUp.xnb</Output>
+      <Time>2012-11-17T10:43:06+04:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckPoints\CheckPointStart\Up.png</Source>
+      <Name>CheckPoints\CheckPointStart\Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\CheckPoints\CheckPointStart\Up.xnb</Output>
+      <Time>2012-11-17T10:43:06+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Shells\Laser.png</Source>
+      <Name>Eric\Shells\Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Shells\Laser.xnb</Output>
+      <Time>2012-12-08T12:32:36+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Shells\Lightning.png</Source>
+      <Name>Eric\Shells\Lightning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Shells\Lightning.xnb</Output>
+      <Time>2012-12-09T04:09:02+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Pause\Background.png</Source>
+      <Name>Menu\Pause\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\Pause\Background.xnb</Output>
+      <Time>2012-12-22T11:14:22+04:00</Time>
+    </Item>
+    <Item>
+      <Source>FlowerBurst.png</Source>
+      <Name>FlowerBurst</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\FlowerBurst.xnb</Output>
+      <Time>2012-12-27T20:00:46+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Moon.png</Source>
+      <Name>Menu\MainMenu\Moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Moon.xnb</Output>
+      <Time>2013-01-17T17:19:44+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Star\Star.png</Source>
+      <Name>Star\Star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Star\Star.xnb</Output>
+      <Time>2013-01-23T16:35:36+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Background.png</Source>
+      <Name>Menu\MainMenu\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Background.xnb</Output>
+      <Time>2013-02-06T01:47:59+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Light.png</Source>
+      <Name>Menu\MainMenu\Light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Light.xnb</Output>
+      <Time>2013-02-06T01:53:19+04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelInscriptions\LevelStart.png</Source>
+      <Name>LevelInscriptions\LevelStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\LevelInscriptions\LevelStart.xnb</Output>
+      <Time>2013-02-06T15:40:23+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\ElectricTower\ETowerL1.png</Source>
+      <Name>Towers\ElectricTower\ETowerL1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Towers\ElectricTower\ETowerL1.xnb</Output>
+      <Time>2013-02-07T19:14:51+04:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthStrip\HSBad\HSBad.png</Source>
+      <Name>HealthStrip\HSBad\HSBad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\HealthStrip\HSBad\HSBad.xnb</Output>
+      <Time>2013-02-07T23:56:34+04:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthStrip\HSGood\HSGood.png</Source>
+      <Name>HealthStrip\HSGood\HSGood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\HealthStrip\HSGood\HSGood.xnb</Output>
+      <Time>2013-02-07T23:56:44+04:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthStrip\HSNormal\HSNormal.png</Source>
+      <Name>HealthStrip\HSNormal\HSNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\HealthStrip\HSNormal\HSNormal.xnb</Output>
+      <Time>2013-02-07T23:56:55+04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelInscriptions\CoonPower.png</Source>
+      <Name>LevelInscriptions\CoonPower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\LevelInscriptions\CoonPower.xnb</Output>
+      <Time>2013-02-08T01:43:29+04:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthStrip\HSBorder\HSBorder.png</Source>
+      <Name>HealthStrip\HSBorder\HSBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\HealthStrip\HSBorder\HSBorder.xnb</Output>
+      <Time>2013-02-08T15:36:33+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gingers\Ginger[1]\Movement\GMRight.png</Source>
+      <Name>Enemies\Gingers\Ginger[1]\Movement\GMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Gingers\Ginger[1]\Movement\GMRight.xnb</Output>
+      <Time>2013-03-05T20:10:24+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bangs\Bang01.png</Source>
+      <Name>Bangs\Bang01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Bangs\Bang01.xnb</Output>
+      <Time>2013-03-09T23:02:20.1160268+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bangs\Bang02.png</Source>
+      <Name>Bangs\Bang02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Bangs\Bang02.xnb</Output>
+      <Time>2013-03-09T23:05:50.2415557+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bangs\Bang03.png</Source>
+      <Name>Bangs\Bang03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Bangs\Bang03.xnb</Output>
+      <Time>2013-03-09T23:05:50.2415557+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bangs\Bang04.png</Source>
+      <Name>Bangs\Bang04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Bangs\Bang04.xnb</Output>
+      <Time>2013-03-09T23:10:22.8600752+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bangs\Bang05.png</Source>
+      <Name>Bangs\Bang05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Bangs\Bang05.xnb</Output>
+      <Time>2013-03-09T23:10:22.8600752+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blood\Blood1.png</Source>
+      <Name>Blood\Blood1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Blood\Blood1.xnb</Output>
+      <Time>2013-03-09T23:28:39.6336647+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\ElectricTower\eTowerL1[Fire].png</Source>
+      <Name>Towers\ElectricTower\eTowerL1[Fire]</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Towers\ElectricTower\eTowerL1[Fire].xnb</Output>
+      <Time>2013-03-21T18:45:46.2208049+04:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Panel.png</Source>
+      <Name>GameInterface\Panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\GameInterface\Panel.xnb</Output>
+      <Time>2013-04-23T12:31:21.099298+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Cloud\Cloud01.png</Source>
+      <Name>Menu\MainMenu\Cloud\Cloud01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Cloud\Cloud01.xnb</Output>
+      <Time>2013-04-23T12:32:18.4697673+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Cloud\Cloud02.png</Source>
+      <Name>Menu\MainMenu\Cloud\Cloud02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Cloud\Cloud02.xnb</Output>
+      <Time>2013-04-23T12:32:18.4697673+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Cloud\Cloud03.png</Source>
+      <Name>Menu\MainMenu\Cloud\Cloud03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Cloud\Cloud03.xnb</Output>
+      <Time>2013-04-23T12:32:18.4707673+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Cloud\Cloud04.png</Source>
+      <Name>Menu\MainMenu\Cloud\Cloud04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Cloud\Cloud04.xnb</Output>
+      <Time>2013-04-23T12:32:18.4717674+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Cloud\Cloud05.png</Source>
+      <Name>Menu\MainMenu\Cloud\Cloud05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Cloud\Cloud05.xnb</Output>
+      <Time>2013-04-23T12:32:18.4717674+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Cloud\Cloud06.png</Source>
+      <Name>Menu\MainMenu\Cloud\Cloud06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Cloud\Cloud06.xnb</Output>
+      <Time>2013-04-23T12:32:18.4727674+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lightning\Lig.png</Source>
+      <Name>Lightning\Lig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Lightning\Lig.xnb</Output>
+      <Time>2013-04-23T12:33:12.0990084+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Coon.png</Source>
+      <Name>Menu\MainMenu\Coon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Coon.xnb</Output>
+      <Time>2013-04-23T12:34:40.1995423+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Logo.png</Source>
+      <Name>Menu\MainMenu\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Logo.xnb</Output>
+      <Time>2013-04-23T12:34:40.2005424+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu\Mysterion.png</Source>
+      <Name>Menu\MainMenu\Mysterion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Menu\MainMenu\Mysterion.xnb</Output>
+      <Time>2013-04-23T12:34:40.2015424+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Arrow\Arrow.png</Source>
+      <Name>Arrow\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Arrow\Arrow.xnb</Output>
+      <Time>2013-04-23T12:33:39.5759169+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Circles\Circles.png</Source>
+      <Name>Circles\Circles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Circles\Circles.xnb</Output>
+      <Time>2013-04-23T12:33:59.6629505+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\Cell\Cell.png</Source>
+      <Name>Map\Cell\Cell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Map\Cell\Cell.xnb</Output>
+      <Time>2013-04-23T12:35:10.8481175+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\EricHouse\Background.png</Source>
+      <Name>Levels\EricHouse\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Levels\EricHouse\Background.xnb</Output>
+      <Time>2013-04-23T12:35:30.9776455+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Movement\EMDown.png</Source>
+      <Name>Eric\Movement\EMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Movement\EMDown.xnb</Output>
+      <Time>2013-04-23T12:39:38.0678693+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Movement\EMLeftRight.png</Source>
+      <Name>Eric\Movement\EMLeftRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Movement\EMLeftRight.xnb</Output>
+      <Time>2013-04-23T12:39:38.0688693+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Movement\EMUp.png</Source>
+      <Name>Eric\Movement\EMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Movement\EMUp.xnb</Output>
+      <Time>2013-04-23T12:39:38.0698694+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Stopped\ESBad.png</Source>
+      <Name>Eric\Stopped\ESBad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Stopped\ESBad.xnb</Output>
+      <Time>2013-04-23T12:42:22.2978665+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Stopped\ESGood.png</Source>
+      <Name>Eric\Stopped\ESGood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Stopped\ESGood.xnb</Output>
+      <Time>2013-04-23T12:42:22.2988665+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Stopped\ESNormal.png</Source>
+      <Name>Eric\Stopped\ESNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Stopped\ESNormal.xnb</Output>
+      <Time>2013-04-23T12:42:22.2988665+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Coon\Stopped\CSDown.png</Source>
+      <Name>Eric\Coon\Stopped\CSDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Coon\Stopped\CSDown.xnb</Output>
+      <Time>2013-04-23T12:44:44.8336766+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Coon\Movement\CMDown.png</Source>
+      <Name>Eric\Coon\Movement\CMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Coon\Movement\CMDown.xnb</Output>
+      <Time>2013-04-23T12:45:13.6121544+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Coon\Movement\CMLeftRight.png</Source>
+      <Name>Eric\Coon\Movement\CMLeftRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Coon\Movement\CMLeftRight.xnb</Output>
+      <Time>2013-04-23T12:45:13.6131544+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Eric\Coon\Movement\CMUp.png</Source>
+      <Name>Eric\Coon\Movement\CMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Eric\Coon\Movement\CMUp.xnb</Output>
+      <Time>2013-04-23T12:45:13.6141545+04:00</Time>
+    </Item>
+    <Item>
+      <Source>111.png</Source>
+      <Name>111</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\111.xnb</Output>
+      <Time>2013-04-23T12:48:25.8497731+04:00</Time>
+    </Item>
+    <Item>
+      <Source>222.png</Source>
+      <Name>222</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\222.xnb</Output>
+      <Time>2013-04-23T12:48:25.8497731+04:00</Time>
+    </Item>
+    <Item>
+      <Source>333.png</Source>
+      <Name>333</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\333.xnb</Output>
+      <Time>2013-04-23T12:48:25.8497731+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[1]\Movement\CMDown.png</Source>
+      <Name>Enemies\Canadian\Canadian[1]\Movement\CMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[1]\Movement\CMDown.xnb</Output>
+      <Time>2013-04-23T12:52:13.1074184+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[1]\Movement\CMLeft.png</Source>
+      <Name>Enemies\Canadian\Canadian[1]\Movement\CMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[1]\Movement\CMLeft.xnb</Output>
+      <Time>2013-04-23T12:52:13.1084184+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[1]\Movement\CMRight.png</Source>
+      <Name>Enemies\Canadian\Canadian[1]\Movement\CMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[1]\Movement\CMRight.xnb</Output>
+      <Time>2013-04-23T12:52:13.1094185+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[1]\Movement\CMUp.png</Source>
+      <Name>Enemies\Canadian\Canadian[1]\Movement\CMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[1]\Movement\CMUp.xnb</Output>
+      <Time>2013-04-23T12:52:13.1104186+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[2]\Movement\CMDown.png</Source>
+      <Name>Enemies\Canadian\Canadian[2]\Movement\CMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[2]\Movement\CMDown.xnb</Output>
+      <Time>2013-04-23T12:54:28.2473464+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[2]\Movement\CMLeft.png</Source>
+      <Name>Enemies\Canadian\Canadian[2]\Movement\CMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[2]\Movement\CMLeft.xnb</Output>
+      <Time>2013-04-23T12:54:28.2473464+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[2]\Movement\CMRight.png</Source>
+      <Name>Enemies\Canadian\Canadian[2]\Movement\CMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[2]\Movement\CMRight.xnb</Output>
+      <Time>2013-04-23T12:54:28.2483465+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[2]\Movement\CMUp.png</Source>
+      <Name>Enemies\Canadian\Canadian[2]\Movement\CMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[2]\Movement\CMUp.xnb</Output>
+      <Time>2013-04-23T12:54:28.2493465+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[3]\Movement\CMDown.png</Source>
+      <Name>Enemies\Canadian\Canadian[3]\Movement\CMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[3]\Movement\CMDown.xnb</Output>
+      <Time>2013-04-23T12:56:41.3962577+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[3]\Movement\CMLeft.png</Source>
+      <Name>Enemies\Canadian\Canadian[3]\Movement\CMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[3]\Movement\CMLeft.xnb</Output>
+      <Time>2013-04-23T12:56:41.3972577+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[3]\Movement\CMRight.png</Source>
+      <Name>Enemies\Canadian\Canadian[3]\Movement\CMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[3]\Movement\CMRight.xnb</Output>
+      <Time>2013-04-23T12:56:41.3982578+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[3]\Movement\CMUp.png</Source>
+      <Name>Enemies\Canadian\Canadian[3]\Movement\CMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[3]\Movement\CMUp.xnb</Output>
+      <Time>2013-04-23T12:56:41.3992579+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[4]\Movement\CMDown.png</Source>
+      <Name>Enemies\Canadian\Canadian[4]\Movement\CMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[4]\Movement\CMDown.xnb</Output>
+      <Time>2013-04-23T12:58:55.0381648+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[4]\Movement\CMLeft.png</Source>
+      <Name>Enemies\Canadian\Canadian[4]\Movement\CMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[4]\Movement\CMLeft.xnb</Output>
+      <Time>2013-04-23T12:58:55.0381648+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[4]\Movement\CMRight.png</Source>
+      <Name>Enemies\Canadian\Canadian[4]\Movement\CMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[4]\Movement\CMRight.xnb</Output>
+      <Time>2013-04-23T12:58:55.0381648+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Canadian\Canadian[4]\Movement\CMUp.png</Source>
+      <Name>Enemies\Canadian\Canadian[4]\Movement\CMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\Canadian\Canadian[4]\Movement\CMUp.xnb</Output>
+      <Time>2013-04-23T12:58:55.0381648+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown.png</Source>
+      <Name>Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown.xnb</Output>
+      <Time>2013-04-23T13:01:50.8887399+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft.png</Source>
+      <Name>Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft.xnb</Output>
+      <Time>2013-04-23T13:01:50.88974+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight.png</Source>
+      <Name>Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight.xnb</Output>
+      <Time>2013-04-23T13:01:50.8907401+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp.png</Source>
+      <Name>Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp.xnb</Output>
+      <Time>2013-04-23T13:01:50.8917401+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown.png</Source>
+      <Name>Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown.xnb</Output>
+      <Time>2013-04-23T13:04:29.3448641+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft.png</Source>
+      <Name>Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft.xnb</Output>
+      <Time>2013-04-23T13:04:29.3458641+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight.png</Source>
+      <Name>Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight.xnb</Output>
+      <Time>2013-04-23T13:04:29.3468642+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp.png</Source>
+      <Name>Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp.xnb</Output>
+      <Time>2013-04-23T13:04:29.3468642+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\BlackAndWhite2.fx</Source>
+      <Name>Effects\BlackAndWhite2</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Effects\BlackAndWhite2.xnb</Output>
+      <Time>2013-03-24T01:34:24.7577689+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\DamageWhite.fx</Source>
+      <Name>Effects\DamageWhite</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Effects\DamageWhite.xnb</Output>
+      <Time>2013-03-09T14:01:52.7876838+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Effect1.fx</Source>
+      <Name>Effects\Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Effects\Effect1.xnb</Output>
+      <Time>2012-12-22T06:32:24+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\BlackWhite.fx</Source>
+      <Name>Effects\BlackWhite</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Effects\BlackWhite.xnb</Output>
+      <Time>2013-03-09T14:01:26.9276471+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\MoonEffect.xml</Source>
+      <Name>Effects\MoonEffect</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\Effects\MoonEffect.xnb</Output>
+      <Time>2012-12-27T20:00:12+04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Temka\Desktop\South Park\South Park\South ParkContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Temka\Desktop\South Park\South Park\South Park\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Temka\Desktop\South Park\South Park\South ParkContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\ProjectMercury.dll</Key>
+        <Value>2010-10-08T15:57:20+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-20T18:29:50.0538249+04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

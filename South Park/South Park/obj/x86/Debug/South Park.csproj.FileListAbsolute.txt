@@ -1,0 +1,1338 @@
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Left.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Right.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Up.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedBad.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedGood.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedNormal.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Alert.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Panel.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Map\CellNow.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Map\CellNowFalse.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveDown\MoveDown.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveLeft\MoveLeft.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveRight\MoveRight.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveUp\MoveUp.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveDown\MoveDown.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveLeft\MoveLeft.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveRight\MoveRight.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveUp\MoveUp.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveDown\MoveDown.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveLeft\MoveLeft.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveRight\MoveRight.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveUp\MoveUp.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveDown\MoveDown.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveLeft\MoveLeft.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveRight\MoveRight.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveUp\MoveUp.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveDown\MoveDown.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveLeft\MoveLeft.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveRight\MoveRight.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveUp\MoveUp.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveDown\MoveDown.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveLeft\MoveLeft.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveRight\MoveRight.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveUp\MoveUp.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\TowerL1.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Left.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Right.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Up.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedBad.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedGood.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedNormal.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Alert.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Panel.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Map\CellNow.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Map\CellNowFalse.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveDown\MoveDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveLeft\MoveLeft.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveRight\MoveRight.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveUp\MoveUp.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveDown\MoveDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveLeft\MoveLeft.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveRight\MoveRight.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveUp\MoveUp.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveDown\MoveDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveLeft\MoveLeft.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveRight\MoveRight.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveUp\MoveUp.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveDown\MoveDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveLeft\MoveLeft.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveRight\MoveRight.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveUp\MoveUp.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveDown\MoveDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveLeft\MoveLeft.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveRight\MoveRight.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveUp\MoveUp.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveDown\MoveDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveLeft\MoveLeft.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveRight\MoveRight.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveUp\MoveUp.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\TowerL1.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+C:\Users\фыв\Desktop\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\фыв\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+C:\Users\фыв\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\1.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Down.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Left.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftUp.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Right.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightUp.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Up.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\1.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Down.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Left.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Right.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Up.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite1.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite3.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LensFlare.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CoonStoppedDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveDown.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveRight.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveLeft.xnb
+C:\Users\фыв\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Panel.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveDown\MoveDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveLeft\MoveLeft.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveRight\MoveRight.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveUp\MoveUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveDown\MoveDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveLeft\MoveLeft.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveRight\MoveRight.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveUp\MoveUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveDown\MoveDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveLeft\MoveLeft.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveRight\MoveRight.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveUp\MoveUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveDown\MoveDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveLeft\MoveLeft.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveRight\MoveRight.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveUp\MoveUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveDown\MoveDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveLeft\MoveLeft.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveRight\MoveRight.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveUp\MoveUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveDown\MoveDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveLeft\MoveLeft.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveRight\MoveRight.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveUp\MoveUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\1.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Down.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Left.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Right.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Up.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedGood.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Up.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Left.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Right.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\TowerL1.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedBad.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedNormal.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CoonStoppedDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveDown.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveRight.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveLeft.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveUp.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite1.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite3.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+D:\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+D:\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+D:\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+D:\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+D:\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Exit.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Load.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Load1.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\NewGame.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Options.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Return.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Return1.xnb
+D:\South Park\South Park\South Park\bin\x86\Debug\Content\111.xnb
+C:\Users\Lamborgini\Google Диск\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+C:\Users\Lamborgini\Google Диск\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\obj\x86\Debug\South Park.exe
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Fonts\SFCityHealth.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Interface\Panel.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger01\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger02\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger03\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger04\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger05\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveDown\MoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveLeft\MoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveRight\MoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger06\MoveUp\MoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\CheckPoints\1.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Down.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Left.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftUp.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Right.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightUp.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Up.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedGood.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Up.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Left.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Right.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\TowerL1.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedBad.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\StoppedNormal.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CoonStoppedDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveDown.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveRight.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveLeft.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CoonMoveUp.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Exit.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Load.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Load1.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\NewGame.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Options.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Return.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Interface\Menu\Return1.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\111.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Menu\Pause\Background.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Menu\StartMenu\Background.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Menu\StartMenu\Hero.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Menu\StartMenu\Moon.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Menu\StartMenu\Cloud\03.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Menu\StartMenu\Cloud\04.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Menu\StartMenu\Cloud\Cloud01.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Menu\StartMenu\Cloud\Cloud02.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Menu\StartMenu\Light.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\FlowerBurst.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite1.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite3.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\South Park.exe
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\South Park.pdb
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\ProjectMercury.dll
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South Park\bin\x86\Debug\Content\Effects\MoonEffect.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFCityHealth.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\111.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\Pause\Background.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FlowerBurst.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite1.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite3.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\MoonEffect.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\ProjectMercury.dll
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\Logo.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\LogoSmall.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.manifest
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.application
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe.manifest
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.application
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Circles\Circles.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFCityHealth.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\Logo.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\LogoSmall.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FlowerBurst.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\111.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\MoonEffect.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.manifest
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.application
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+C:\Users\inet\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe.manifest
+C:\Users\inet\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.application
+C:\Users\inet\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+C:\Users\inet\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\inet\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Star\Star.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Background.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Moon.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud01.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud02.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Light.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\Logo.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Mysterion.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Coon.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\GameInterface\Panel.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL1.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud03.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud04.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud05.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud06.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CSDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMLeftRight.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\CoonPower.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMLeftRight.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMDown.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMUp.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESGood.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESBad.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESNormal.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Arrow\Arrow.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBad\HSBad.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSGood\HSGood.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSNormal\HSNormal.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBorder\HSBorder.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\222.xnb
+C:\Users\Lamborgini\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\333.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFCityHealth.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\Logo.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\LogoSmall.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESGood.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMLeftRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESBad.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESNormal.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FlowerBurst.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Moon.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Coon.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Star\Star.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Mysterion.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud02.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud03.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Background.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Light.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud01.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud04.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud05.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud06.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CSDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMLeftRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Arrow\Arrow.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL1.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBad\HSBad.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSGood\HSGood.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSNormal\HSNormal.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\CoonPower.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBorder\HSBorder.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\GameInterface\Panel.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\111.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\222.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\333.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\MoonEffect.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.manifest
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.application
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe.manifest
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.application
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Logo.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+C:\Users\Mies\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFCityHealth.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\Logo.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\LogoSmall.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\1.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Down.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Left.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Right.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Up.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESGood.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMLeftRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESBad.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESNormal.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\Pause\Background.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FlowerBurst.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Moon.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Coon.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Star\Star.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Mysterion.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Circles\Circles.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud02.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud03.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Background.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Light.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud04.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud05.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud06.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CSDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMLeftRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Arrow\Arrow.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL1.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBad\HSBad.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSGood\HSGood.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSNormal\HSNormal.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\CoonPower.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBorder\HSBorder.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud01.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Logo.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\111.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\222.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\333.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\GameInterface\Panel.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\MoonEffect.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.manifest
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.application
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mies\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe.manifest
+C:\Users\Mies\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.application
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang01.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.config
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\ProjectMercury.dll
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\DamageWhite.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackWhite.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang02.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang03.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang04.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang05.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Blood\Blood1.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Lightning\Lig.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMLeft.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMLeft.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMLeft.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMLeft.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMLeft.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[6]\Movement\GMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[6]\Movement\GMLeft.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[6]\Movement\GMRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[6]\Movement\GMUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\eTowerL1[Fire].xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight.xnb
+C:\Users\Mies\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp.xnb
+L:\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+L:\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+L:\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+L:\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFCityHealth.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\Logo.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\LogoSmall.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESGood.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMLeftRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESBad.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESNormal.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\FlowerBurst.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Moon.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Star\Star.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Mysterion.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud02.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud03.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Background.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Light.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud04.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud05.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud06.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CSDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMLeftRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Arrow\Arrow.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL1.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBad\HSBad.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSGood\HSGood.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSNormal\HSNormal.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\CoonPower.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBorder\HSBorder.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud01.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Logo.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\111.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\222.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\333.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\GameInterface\Panel.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Coon.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang01.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang02.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang03.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang04.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang05.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Blood\Blood1.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Lightning\Lig.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\eTowerL1[Fire].xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\DamageWhite.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\Effect1.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackWhite.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\MoonEffect.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+L:\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.config
+L:\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.manifest
+L:\South Park\South Park\South Park\bin\x86\Debug\South Park.application
+L:\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+L:\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+L:\South Park\South Park\South Park\obj\x86\Debug\South Park.exe.manifest
+L:\South Park\South Park\South Park\obj\x86\Debug\South Park.application
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFCityHealth.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\Logo.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\LogoSmall.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMLeft.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMLeft.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMLeft.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMLeft.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMLeft.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[6]\Movement\GMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[6]\Movement\GMLeft.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[6]\Movement\GMRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[6]\Movement\GMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\1.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Down.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Left.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\LeftUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Right.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\RightUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\CheckPoints\CheckPointStart\Up.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESGood.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMLeftRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESBad.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESNormal.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\Pause\Background.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\FlowerBurst.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Moon.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Star\Star.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Mysterion.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud02.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud03.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Background.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Light.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud04.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud05.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud06.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CSDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMLeftRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Arrow\Arrow.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL1.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBad\HSBad.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSGood\HSGood.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSNormal\HSNormal.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\CoonPower.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBorder\HSBorder.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud01.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Logo.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\111.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\222.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\333.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\GameInterface\Panel.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Coon.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang01.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang02.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang03.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang04.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang05.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Blood\Blood1.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Lightning\Lig.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\eTowerL1[Fire].xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Circles\Circles.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\DamageWhite.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\Effect1.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackWhite.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\MoonEffect.xnb
+H:\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+H:\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.config
+H:\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.manifest
+H:\South Park\South Park\South Park\bin\x86\Debug\South Park.application
+H:\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+H:\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+H:\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+H:\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\South Park\South Park\South Park\obj\x86\Debug\South Park.exe.manifest
+H:\South Park\South Park\South Park\obj\x86\Debug\South Park.application
+H:\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+H:\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang01.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang02.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang03.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang04.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang05.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Blood\Blood1.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Lightning\Lig.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\eTowerL1[Fire].xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\DamageWhite.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackWhite.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.config
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDRight.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDLeft.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FireArea.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\1.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Down.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Left.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Right.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Up.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FiringRadius.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMBDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMGDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMNDown.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.TrustInfo.xml
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\1.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Down.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Left.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Right.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Up.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDLeft.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDRight.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FireArea.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FiringRadius.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMBDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMGDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMNDown.xnb
+L:\South Park\South Park\South Park\obj\x86\Debug\South Park.TrustInfo.xml
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\GoldMonet\GoldMonet.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Medic\Medic.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Speed\S.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFCityHealth.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\Logo.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\LogoSmall.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\1.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Down.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Left.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Right.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Up.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\FlowerBurst.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Moon.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Star\Star.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Background.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Light.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL1.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBad\HSBad.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSGood\HSGood.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSNormal\HSNormal.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\CoonPower.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBorder\HSBorder.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang01.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang02.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang03.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang04.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang05.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Blood\Blood1.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\eTowerL1[Fire].xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\GameInterface\Panel.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud01.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud02.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud03.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud04.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud05.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud06.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Lightning\Lig.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Coon.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Logo.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Mysterion.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Arrow\Arrow.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMLeftRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CSDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMLeftRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\111.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\222.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\333.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDLeft.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDRight.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDUp.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FireArea.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FiringRadius.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESGood.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESBad.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESNormal.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMBDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMGDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMNDown.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\GoldMonet\GoldMonet.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Medic\Medic.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Speed\S.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\DamageWhite.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackWhite.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\MoonEffect.xnb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.config
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.manifest
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\South Park.application
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\obj\x86\Debug\South Park.TrustInfo.xml
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\obj\x86\Debug\South Park.exe.manifest
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\obj\x86\Debug\South Park.application
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL2.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL2.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\GoldMonet\GoldMonet.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Medic\Medic.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Speed\S.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL2.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\DarkEffectUp.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\DarkEffectDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\DarkEffectUp.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\DarkEffectDown.xnb
+L:\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\MenuCost.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\MenuCost.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\Towers\ElectricTower.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\1.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\2.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\3.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\1.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Down.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Left.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Right.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Up.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Moon.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Star\Star.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Background.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Light.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL1.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBad\HSBad.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSGood\HSGood.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSNormal\HSNormal.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\CoonPower.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBorder\HSBorder.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang01.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang02.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang03.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang04.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang05.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Blood\Blood1.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\eTowerL1[Fire].xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\GameInterface\Panel.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud01.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud02.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud03.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud04.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud05.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud06.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Lightning\Lig.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Coon.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Logo.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Mysterion.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Arrow\Arrow.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMLeftRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CSDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMLeftRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\222.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\333.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDLeft.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDRight.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FireArea.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FiringRadius.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESGood.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESBad.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESNormal.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMBDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMGDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMNDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\GoldMonet\GoldMonet.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Medic\Medic.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Speed\S.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL2.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\DarkEffectUp.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\DarkEffectDown.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\Towers\ElectricTower.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\1.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\2.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\3.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\MenuCost.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\DamageWhite.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackWhite.xnb
+C:\Users\inet\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.config
+C:\Users\inet\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.TrustInfo.xml
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\South_Park.Resources.resources
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Temka\Desktop\South Park\South Park\South Park\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\blank.xnb
+C:\Users\Temka\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\gradient.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.pdb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFAll.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFHealth.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\SFCityHealth.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\Logo.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Fonts\LogoSmall.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\DarkFone.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[2]\Movement\GMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[4]\Movement\GMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[5]\Movement\GMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[3]\Movement\GMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\CameraTower\TowerL1.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\1.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Down.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Left.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\LeftUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Right.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\RightUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\CheckPoints\CheckPointStart\Up.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Laser.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Shells\Lightning.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FlowerBurst.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Moon.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Star\Star.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Background.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Light.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\LevelStart.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL1.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBad\HSBad.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSGood\HSGood.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSNormal\HSNormal.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\LevelInscriptions\CoonPower.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\HealthStrip\HSBorder\HSBorder.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Movement\GMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang01.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang02.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang03.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang04.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bangs\Bang05.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Blood\Blood1.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\eTowerL1[Fire].xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\GameInterface\Panel.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud01.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud02.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud03.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud04.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud05.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Cloud\Cloud06.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Lightning\Lig.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Coon.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Logo.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\Mysterion.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Arrow\Arrow.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMLeftRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\EMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Stopped\CSDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMLeftRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Coon\Movement\CMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\111.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\222.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\333.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[1]\Movement\CMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[2]\Movement\CMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[3]\Movement\CMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Canadian\Canadian[4]\Movement\CMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[1]\Movement\FPMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\FuturePeoples\FuturePeoples[2]\Movement\FPMUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\Background.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDLeft.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDRight.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Enemies\Gingers\Ginger[1]\Damage\GDUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FireArea.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\FiringRadius\FiringRadius.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESGood.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESBad.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Stopped\ESNormal.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMBDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMGDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Eric\Movement\Down\EMNDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\GoldMonet\GoldMonet.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Medic\Medic.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Bonus\Speed\S.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Towers\ElectricTower\ETowerL2.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\DarkEffectUp.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Menu\MainMenu\DarkEffectDown.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\Towers\ElectricTower.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\1.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\2.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\3.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Map\Cell\Cell.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\MenuCost\MenuCost.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\blank.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\gradient.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackAndWhite2.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\DamageWhite.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\Effect1.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\BlackWhite.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Effects\MoonEffect.xnb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\Content\Levels\EricHouse\EricHouse.sou
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.config
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe.manifest
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.application
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.exe
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\bin\x86\Debug\South Park.pdb
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\obj\x86\Debug\South_Park.Resources.resources
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.TrustInfo.xml
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.exe.manifest
+C:\Users\TEMP\Desktop\South Park\South Park\South Park\obj\x86\Debug\South Park.application

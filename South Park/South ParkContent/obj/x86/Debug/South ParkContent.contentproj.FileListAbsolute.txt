@@ -1,0 +1,13 @@
+c:\users\фыв\documents\visual studio 2010\Projects\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+C:\Users\фыв\Desktop\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lamborgini\Desktop\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+D:\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lamborgini\Google Диск\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lamborgini\Desktop\South Park1\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+C:\Users\inet\Desktop\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mies\Desktop\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+L:\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+H:\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+C:\Users\inet\Desktop\Новая папка\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
+C:\Users\Temka\Desktop\South Park\South Park\South ParkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\South Park\South Park\South ParkContent\obj\x86\Debug\South ParkContent.contentprojResolveAssemblyReference.cache
